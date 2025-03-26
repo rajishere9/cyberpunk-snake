@@ -1,6 +1,15 @@
-# Cyberpunk Snake Game
+# Cyberpunk Snake Game 🐍💻
 
-A modern Snake game with cyberpunk aesthetic styling.
+A modern Snake game with cyberpunk aesthetic styling built using HTML5 Canvas, JavaScript, and CSS.
+
+## About
+This project is a retro-style Snake game reimagined with a futuristic cyberpunk theme. It features:
+- Classic Snake gameplay mechanics with a modern twist
+- Neon cyberpunk color scheme and visual effects
+- Local storage for high score persistence
+- Responsive design that works on desktop browsers
+
+Perfect for web development learners, JavaScript enthusiasts, and retro gaming fans looking for a stylish twist on a classic game. The clean, modular code makes it easy to understand and customize.
 
 ![Game Screenshot](screenshot.png)
 
