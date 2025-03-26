@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+    font-family: 'Orbitron', sans-serif; /* Cyberpunk-style font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0a0a1a; /* Dark blue/purple background */
+    color: #00ffcc; /* Neon cyan text */
+}
+
+.game-container {
+    text-align: center;
+    background: rgba(10, 10, 30, 0.8); /* Slightly transparent dark background */
+    padding: 2rem;
+    border-radius: 10px;
+    border: 1px solid #ff00ff; /* Neon pink border */
+    box-shadow: 0 0 15px #ff00ff, 0 0 25px #ff00ff inset; /* Neon pink glow */
+}
+
+h1 {
+    margin-bottom: 1rem;
+    color: #ff00ff; /* Neon pink */
+    text-shadow: 0 0 5px #ff00ff;
+}
+
+.score-container {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #00ffcc; /* Neon cyan */
+    text-shadow: 0 0 3px #00ffcc;
+}
+
+#game-board {
+    border: 2px solid #00ffcc; /* Neon cyan border */
+    border-radius: 5px;
+    background-color: #050510; /* Very dark background for contrast */
+    box-shadow: 0 0 10px #00ffcc inset; /* Inner cyan glow */
+}
+
+.controls {
+    margin-top: 1rem;
+}
+
+button {
+    padding: 0.6rem 1.2rem;
+    margin: 0 0.5rem;
+    border: 1px solid #ff00ff; /* Neon pink border */
+    border-radius: 5px;
+    background-color: transparent; /* Transparent background */
+    color: #ff00ff; /* Neon pink text */
+    font-family: 'Orbitron', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+    text-shadow: 0 0 3px #ff00ff;
+}
+
+button:hover {
+    background-color: rgba(255, 0, 255, 0.2); /* Light pink glow on hover */
+    color: #ffffff;
+    box-shadow: 0 0 10px #ff00ff;
+}
+
+button:active {
+    transform: scale(0.98);
+    background-color: rgba(255, 0, 255, 0.4);
+}
