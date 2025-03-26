@@ -25,10 +25,13 @@ Perfect for web development learners, JavaScript enthusiasts, and retro gaming f
 - JavaScript
 - CSS3
 
+## Demo
+Play the game live: [Cyberpunk Snake Demo](https://rajishere9.github.io/cyberpunk-snake)
+
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cyberpunk-snake.git
+git clone https://github.com/rajishere9/cyberpunk-snake.git
 ```
 2. Open `index.html` in your browser
 
