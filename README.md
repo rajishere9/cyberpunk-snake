@@ -11,8 +11,6 @@ This project is a retro-style Snake game reimagined with a futuristic cyberpunk 
 
 Perfect for web development learners, JavaScript enthusiasts, and retro gaming fans looking for a stylish twist on a classic game. The clean, modular code makes it easy to understand and customize.
 
-![Game Screenshot](screenshot.png)
-
 ## Features
 - Classic Snake gameplay with cyberpunk visuals
 - Score tracking and high score saving (local storage)
